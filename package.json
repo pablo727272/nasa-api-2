@@ -1,0 +1,16 @@
+{
+  "name": "nasa-api-with-express",
+  "version": "1.0.0",
+  "description": "upgrading our last assignment with server.js hiding api key etc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Humphrey",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "request": "^2.81.0"
+  }
+}
